@@ -1,4 +1,4 @@
-## This is a sample site created to test the integration of Google Analytics with TikTok.
+## This is a sample site created to test the integration of Google Analytics with TikTok
 
 I encountered an issue while connecting my TikTok account to Google Analytics, as it displayed a "no data has been received" error message due to the website not being tagged with the Measurement ID. I couldn't insert the Google Tag code on the TikTok source page as it is not open for editing and ought to contact the site administrator for access. Despite trying UTM parameters and installing the TikTok pixel via Google Tag Manager, it still didn’t work.
 
