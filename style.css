@@ -102,7 +102,7 @@ p2 {
     height: 100px; /* Same height as background button */
     text-align: center; /* Center text in the button */
     line-height: 60px; /* Vertically align text */
-    margin-bottom: 50px; /* Add space below the button */
+    margin-bottom: 100px; /* Add space below the button */
 }
 
 #watch-trailer-btn:hover {
